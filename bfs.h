@@ -61,6 +61,7 @@ void BFSGraph::BFS(int s)
 		// Get all adjacent vertices of the dequeued 
 		// vertex s. If a adjacent has not been visited,  
 		// then mark it visited and enqueue it 
+		// this is a normal loop resulting in a breath search
 		for (i = adj[s].begin(); i != adj[s].end(); ++i)
 		{
 			if (!visited[*i])

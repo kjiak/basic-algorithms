@@ -55,6 +55,7 @@ void DFSGraph::DFSUtil(int v, bool visited[])
 
 // DFS traversal of the vertices reachable from v. 
 // It uses recursive DFSUtil() 
+// this is a recursive loop causing a depth search
 void DFSGraph::DFS(int v)
 {
 	// Mark all the vertices as not visited 
