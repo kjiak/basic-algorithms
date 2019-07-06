@@ -1,6 +1,7 @@
 #pragma once
 #include<iostream> 
-#include<list> 
+#include<list>
+
 using namespace std;
 
 // Graph class represents a directed graph 
