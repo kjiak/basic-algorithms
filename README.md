@@ -1,8 +1,8 @@
 # basic-algorithms
 
 ### Algorithms
-BFS
-DFS
+BFS <br>
+DFS <br>
 
 ### Credits
 https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/ <br>
